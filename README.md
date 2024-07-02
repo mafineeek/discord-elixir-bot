@@ -1,0 +1,1 @@
+Basic ping/pong and 8ball slash command bot, made in elixir for fun.
